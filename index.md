@@ -1,6 +1,6 @@
 # Welcome to Text-Encryptor official page
 Text Encryptor is a tool that can encrypt your texts.
-***
+
 
 ## Overview
 ![Screen Shot 2022-04-15 at 17 09 04](https://user-images.githubusercontent.com/89689293/163551539-dea363d7-4199-4337-a614-2b9dbe82c26f.png)
@@ -21,4 +21,4 @@ Text Encryptor is a tool that can encrypt your texts.
 3.Press "Decode" button.
 
 ### How does it work?
-[See the rationale behind](howdoesthiswork.md)
+
